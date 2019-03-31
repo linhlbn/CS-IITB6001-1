@@ -1,5 +1,7 @@
-# CS-IITB6001
+# CS-IITB6001-1
+
 ### html-js-css
+
 | Assignment | Description |
 | ----------- | ----------- |
 | 1.1 | Area of a triangle |
